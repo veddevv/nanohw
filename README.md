@@ -41,7 +41,7 @@
 3. **Kjør Applikasjonen**:
    Du kan kjøre Python-skriptet direkte:
    ```
-   python system_info.py
+   python nanohw.py
    ```
 
    Eller, hvis du foretrekker en selvstendig eksekverbar fil, kan du bruke den medfølgende `.exe`-filen i `dist`-mappen.
