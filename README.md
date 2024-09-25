@@ -1,3 +1,10 @@
+# LES DETTE FØRST / READ THIS FIRST
+Noen versjoner (kansje alle) av NanoHW kan være ødelagdte, og jeg vet ikke hvordan man kan fikse de foreløpig. Takk for at du forstår.
+/ Some versions (maybe all) of NanoHW may be broken and I don't know how to fix them yet. Thank you for your understanding.
+
+
+
+
 # NanoHW
 
 **NanoHW** (/ˈnænoʊ eɪtʃ dʌbəl.juː/) er en allsidig og interaktiv skrivebordsapplikasjon laget for Windows ved hjelp av Python og Tkinter.
