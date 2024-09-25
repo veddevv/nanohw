@@ -8,8 +8,6 @@
 - **Operativsysteminformasjon**: Viser detaljer om OS-versjon og type.
 - **CPU-info**: Viser CPU-modell, kjerner og bruksstatistikk.
 - **Minneinfo**: Gir informasjon om total og tilgjengelig systemminne.
-- **Nettverksinfo**: Viser IP- og MAC-adresser for maskinen.
-- **Prosessmonitor**: Viser kjørende prosesser sammen med PID, navn, CPU-bruk og minneforbruk.
 
 ### NanoPaint
 - **Fri Tegning**: Lar brukere tegne fritt på et lerret ved å bruke valgt penselfarge og størrelse.
