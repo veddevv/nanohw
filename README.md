@@ -1,6 +1,6 @@
 # NanoHW
 
-**NanoHW** er en allsidig og interaktiv skrivebordsapplikasjon laget for Windows ved hjelp av Python og Tkinter.
+**NanoHW** (/ˈnænoʊ eɪtʃ dʌbəl.juː/, i IPA) er en allsidig og interaktiv skrivebordsapplikasjon laget for Windows ved hjelp av Python og Tkinter.
 
 ## Funksjoner
 
