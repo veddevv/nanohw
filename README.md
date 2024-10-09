@@ -2,7 +2,7 @@
 Noen versjoner (kansje alle) av NanoHW kan være ødelagte, og jeg vet ikke hvordan man kan fikse de foreløpig. Takk for at du forstår.
 / Some versions (maybe all) of NanoHW may be broken and I don't know how to fix them yet. Thank you for your understanding.
 
-
+# DETTE REPOET ER NÅ ARKIVERT. / THIS REPO IS NOW ARCHIVED.
 
 
 # NanoHW
